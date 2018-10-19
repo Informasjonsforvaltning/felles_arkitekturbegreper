@@ -1,1 +1,1 @@
-# felles_arktieturbegreper
+# felles_arkitekturbegreper
