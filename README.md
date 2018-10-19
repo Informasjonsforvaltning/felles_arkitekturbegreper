@@ -1,1 +1,1 @@
-# felles_arkitekturbegreper
+# Felles arkitekturbegreper
