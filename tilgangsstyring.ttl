@@ -1,0 +1,13 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix begrep: <https://github.com/Informasjonsforvaltning/felles_arktieturbegreper/> .
+
+begrep:Tilgangsstyring
+	a skos:Concept ;
+	skos:prefLabel "Tilgangsstyring"@no ;
+	skos:definition "Regler for å styre hvem som skal ha tilgang til hvilke opplysninger eller systemer. (Datatilsynet)"@no ;
+	dct:publisher <https://data.brreg.no/enhetsregisteret/enhet/974761467> ; # Datatilsynet
+.
